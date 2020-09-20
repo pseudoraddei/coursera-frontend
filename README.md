@@ -1,2 +1,2 @@
-# coursera-test
+# coursera-frontend
 Coursera test repository
